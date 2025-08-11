@@ -10,7 +10,7 @@ Includes a **Copy to Clipboard** button for convenience.
 ---
 
 ## 🚀 Live Demo
-[**Click here to try it!**]([https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME](https://ashikgowdak.github.io/Password_Generator/))
+(https://ashikgowdak.github.io/Password_Generator/)
 
 ---
 
